@@ -1,0 +1,26 @@
+--temp-output:C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\obj\Debug\net46\
+--out:C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\bin\Debug\net46\Cecs475.BoardGames.Chess.dll
+--define:DEBUG
+--define:TRACE
+--define:NET46
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--output-name:Cecs475.BoardGames.Chess
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.6
+--reference:C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames\bin\Debug\net46\Cecs475.BoardGames.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\System.Linq.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Data.Entity.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Microsoft.CSharp.dll
+C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\ChessBoard.cs
+C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\ChessMove.cs
+C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\ChessPiecePosition.cs
+C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\ChessView.cs
+C:\Users\011766428\Desktop\Project1-master\src\Cecs475.BoardGames.Chess\Properties\AssemblyInfo.cs
